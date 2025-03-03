@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digit Recognition</title>
+</head>
+<body>
+    <h1>Upload an Image of a Digit</h1>
+    <form action="/" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept="image/*" required>
+        <button type="submit">Upload and Predict</button>
+    </form>
+
+    <h2>Prediction Result:</h2>
+    <div id="result"></div>
+
+    <script>
+        // Handle form submission with AJAX
+        document.querySelector("form").addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const formData = new FormData(e.target);
+            const response = await fetch("/", {
+                method: "POST",
+                body: formData
+            });
+            const result = await response.json();
+            if (result.error) {
+                document.getElementById("result").innerText = `Error: ${result.error}`;
+            } else {
+                document.getElementById("result").innerText = `Predicted Digit: ${result.prediction}`;
+            }
+        });
+    </script>
+</body>
+</html>
