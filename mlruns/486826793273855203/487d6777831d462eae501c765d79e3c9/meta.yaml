@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/486826793273855203/487d6777831d462eae501c765d79e3c9/artifacts
+end_time: 1740978453928
+entry_point_name: ''
+experiment_id: '486826793273855203'
+lifecycle_stage: active
+run_id: 487d6777831d462eae501c765d79e3c9
+run_name: popular-lamb-624
+run_uuid: 487d6777831d462eae501c765d79e3c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740978452787
+status: 3
+tags: []
+user_id: janak

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/486826793273855203/4f9064623e154b1d839bd87f56561490/artifacts
+end_time: 1740978447849
+entry_point_name: ''
+experiment_id: '486826793273855203'
+lifecycle_stage: active
+run_id: 4f9064623e154b1d839bd87f56561490
+run_name: gifted-croc-698
+run_uuid: 4f9064623e154b1d839bd87f56561490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740978446481
+status: 3
+tags: []
+user_id: janak

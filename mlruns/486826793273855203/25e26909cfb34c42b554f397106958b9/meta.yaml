@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/486826793273855203/25e26909cfb34c42b554f397106958b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '486826793273855203'
+lifecycle_stage: active
+run_id: 25e26909cfb34c42b554f397106958b9
+run_name: merciful-pig-620
+run_uuid: 25e26909cfb34c42b554f397106958b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740978466317
+status: 1
+tags: []
+user_id: janak

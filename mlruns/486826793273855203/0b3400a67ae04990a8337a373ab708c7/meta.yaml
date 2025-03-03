@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/486826793273855203/0b3400a67ae04990a8337a373ab708c7/artifacts
+end_time: 1740978451857
+entry_point_name: ''
+experiment_id: '486826793273855203'
+lifecycle_stage: active
+run_id: 0b3400a67ae04990a8337a373ab708c7
+run_name: magnificent-mole-392
+run_uuid: 0b3400a67ae04990a8337a373ab708c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740978451055
+status: 3
+tags: []
+user_id: janak

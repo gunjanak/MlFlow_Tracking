@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/486826793273855203/734a93e542264bc08af477774b0b5b3b/artifacts
+end_time: 1740978452783
+entry_point_name: ''
+experiment_id: '486826793273855203'
+lifecycle_stage: active
+run_id: 734a93e542264bc08af477774b0b5b3b
+run_name: thundering-bird-75
+run_uuid: 734a93e542264bc08af477774b0b5b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740978451860
+status: 3
+tags: []
+user_id: janak

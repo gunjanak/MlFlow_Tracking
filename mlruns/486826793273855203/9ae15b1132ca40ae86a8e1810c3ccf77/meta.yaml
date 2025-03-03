@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/486826793273855203/9ae15b1132ca40ae86a8e1810c3ccf77/artifacts
+end_time: 1740978451052
+entry_point_name: ''
+experiment_id: '486826793273855203'
+lifecycle_stage: active
+run_id: 9ae15b1132ca40ae86a8e1810c3ccf77
+run_name: enchanting-sloth-502
+run_uuid: 9ae15b1132ca40ae86a8e1810c3ccf77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740978449951
+status: 3
+tags: []
+user_id: janak

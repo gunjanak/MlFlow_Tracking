@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/486826793273855203/e3bc1801bb6b4231bccf9a7755b01596/artifacts
+end_time: 1740978449948
+entry_point_name: ''
+experiment_id: '486826793273855203'
+lifecycle_stage: active
+run_id: e3bc1801bb6b4231bccf9a7755b01596
+run_name: enchanting-shark-836
+run_uuid: e3bc1801bb6b4231bccf9a7755b01596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740978448928
+status: 3
+tags: []
+user_id: janak

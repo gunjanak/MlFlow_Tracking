@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/486826793273855203/7c8a461cb8d24425a9540d012d3a7737/artifacts
+end_time: 1740978448923
+entry_point_name: ''
+experiment_id: '486826793273855203'
+lifecycle_stage: active
+run_id: 7c8a461cb8d24425a9540d012d3a7737
+run_name: victorious-hare-377
+run_uuid: 7c8a461cb8d24425a9540d012d3a7737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740978447854
+status: 3
+tags: []
+user_id: janak

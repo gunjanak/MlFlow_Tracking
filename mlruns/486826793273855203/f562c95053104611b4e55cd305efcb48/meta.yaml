@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/486826793273855203/f562c95053104611b4e55cd305efcb48/artifacts
+end_time: 1740978446478
+entry_point_name: ''
+experiment_id: '486826793273855203'
+lifecycle_stage: active
+run_id: f562c95053104611b4e55cd305efcb48
+run_name: capricious-carp-84
+run_uuid: f562c95053104611b4e55cd305efcb48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740978445560
+status: 3
+tags: []
+user_id: janak
