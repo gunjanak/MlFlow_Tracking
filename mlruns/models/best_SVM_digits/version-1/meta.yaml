@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740979087227
+current_stage: None
+description: ''
+last_updated_timestamp: 1740979087227
+name: best_SVM_digits
+run_id: 25e26909cfb34c42b554f397106958b9
+run_link: ''
+source: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/486826793273855203/25e26909cfb34c42b554f397106958b9/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/486826793273855203/25e26909cfb34c42b554f397106958b9/artifacts/best_model
+user_id: null
+version: 1
