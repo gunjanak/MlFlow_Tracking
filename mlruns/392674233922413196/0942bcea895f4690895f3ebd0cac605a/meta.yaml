@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/392674233922413196/0942bcea895f4690895f3ebd0cac605a/artifacts
+end_time: 1741014021244
+entry_point_name: ''
+experiment_id: '392674233922413196'
+lifecycle_stage: active
+run_id: 0942bcea895f4690895f3ebd0cac605a
+run_name: incongruous-wolf-112
+run_uuid: 0942bcea895f4690895f3ebd0cac605a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741014020116
+status: 3
+tags: []
+user_id: janak

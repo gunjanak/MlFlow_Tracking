@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/392674233922413196/c2c3d5b1f1294a748d1cbf7219671091/artifacts
+end_time: 1741014027799
+entry_point_name: ''
+experiment_id: '392674233922413196'
+lifecycle_stage: active
+run_id: c2c3d5b1f1294a748d1cbf7219671091
+run_name: receptive-mule-994
+run_uuid: c2c3d5b1f1294a748d1cbf7219671091
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741014026139
+status: 3
+tags: []
+user_id: janak

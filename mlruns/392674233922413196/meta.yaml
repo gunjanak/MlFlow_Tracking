@@ -1,0 +1,6 @@
+artifact_location: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/392674233922413196
+creation_time: 1741014012133
+experiment_id: '392674233922413196'
+last_update_time: 1741014012133
+lifecycle_stage: active
+name: Digits_SVM_Tracking_for_Blog

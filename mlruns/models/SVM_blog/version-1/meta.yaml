@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741014742820
+current_stage: None
+description: ''
+last_updated_timestamp: 1741014742820
+name: SVM_blog
+run_id: 475d1f61d16040abb7f1d569a99be093
+run_link: ''
+source: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/392674233922413196/475d1f61d16040abb7f1d569a99be093/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/392674233922413196/475d1f61d16040abb7f1d569a99be093/artifacts/best_model
+user_id: null
+version: 1

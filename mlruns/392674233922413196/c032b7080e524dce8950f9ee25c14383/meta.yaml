@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/392674233922413196/c032b7080e524dce8950f9ee25c14383/artifacts
+end_time: 1741014020112
+entry_point_name: ''
+experiment_id: '392674233922413196'
+lifecycle_stage: active
+run_id: c032b7080e524dce8950f9ee25c14383
+run_name: nebulous-wolf-656
+run_uuid: c032b7080e524dce8950f9ee25c14383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741014019407
+status: 3
+tags: []
+user_id: janak

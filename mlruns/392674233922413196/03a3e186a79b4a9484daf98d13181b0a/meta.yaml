@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/392674233922413196/03a3e186a79b4a9484daf98d13181b0a/artifacts
+end_time: 1741014024054
+entry_point_name: ''
+experiment_id: '392674233922413196'
+lifecycle_stage: active
+run_id: 03a3e186a79b4a9484daf98d13181b0a
+run_name: bedecked-roo-598
+run_uuid: 03a3e186a79b4a9484daf98d13181b0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741014022875
+status: 3
+tags: []
+user_id: janak

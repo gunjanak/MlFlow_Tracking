@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/392674233922413196/276f5c2f14dc43ea934fd093d5c9d78c/artifacts
+end_time: 1741014018144
+entry_point_name: ''
+experiment_id: '392674233922413196'
+lifecycle_stage: active
+run_id: 276f5c2f14dc43ea934fd093d5c9d78c
+run_name: nosy-bee-953
+run_uuid: 276f5c2f14dc43ea934fd093d5c9d78c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741014017095
+status: 3
+tags: []
+user_id: janak

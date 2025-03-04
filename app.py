@@ -11,7 +11,8 @@ scaler = load("scaler.joblib")
 app = Flask(__name__)
 
 # MLflow model endpoint
-MLFLOW_MODEL_URL = "http://localhost:1234/invocations"
+# MLFLOW_MODEL_URL = "http://localhost:1234/invocations"
+MLFLOW_MODEL_URL = "http://10.11.13.2:8000/invocations"
 
 
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/janak/Documents/Mlflow_Blog/MlFlow_Tracking/mlruns/392674233922413196/475d1f61d16040abb7f1d569a99be093/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '392674233922413196'
+lifecycle_stage: active
+run_id: 475d1f61d16040abb7f1d569a99be093
+run_name: glamorous-shrew-861
+run_uuid: 475d1f61d16040abb7f1d569a99be093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741014146424
+status: 1
+tags: []
+user_id: janak
